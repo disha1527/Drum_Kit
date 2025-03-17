@@ -19,6 +19,6 @@ Together, we can make this virtual drum kit even better!</p>
 <h1>Get Started:</h1>
 <p>Clone or fork this repository to get started with the Drum Kit project. Have a blast drumming and let your creativity flow!</p>
 Live Demo: https://disha1527.github.io/Drum_Kit/
-Join the rhythm and start drumming with our virtual drum kit now!
+<p>Join the rhythm and start drumming with our virtual drum kit now!</p>
 
 ![screencapture-file-C-Users-DELL-Desktop-Dram-kit-index-html-2025-03-17-22_31_15](https://github.com/user-attachments/assets/939ee805-2bb3-45a4-9af5-3d1926757d0e)
