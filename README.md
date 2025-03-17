@@ -5,13 +5,13 @@
 It's the perfect tool for drum enthusiasts, aspiring musicians, or anyone looking to have some fun and make some beats.</p>
 
 <h1>Features:</h1>
-<p>>A visually appealing and responsive user interface. Multiple drum sounds corresponding to different keys on your keyboard. 
+<p>A visually appealing and responsive user interface. Multiple drum sounds corresponding to different keys on your keyboard. 
 Realistic drum sounds to enhance your playing experience. Easy-to-use interface for beginners and experienced drummers alike. 
 How to Play: Simply click or press the keys on your keyboard corresponding to the drum sounds you want to play. 
-Experiment with different combinations to create your own unique rhythms and beats.</p
+Experiment with different combinations to create your own unique rhythms and beats.</p>
 
 <h1>Project Structure:</h1>
-<p>>HTML for the structure and layout of the drum kit. CSS for styling and making the drum kit visually appealing. 
+<p>HTML for the structure and layout of the drum kit. CSS for styling and making the drum kit visually appealing. 
 JavaScript for handling user interactions, playing sounds, and creating the drumming experience. 
 Contributions: Feel free to contribute to this project by adding new features, improving the user interface, or suggesting enhancements. 
 Together, we can make this virtual drum kit even better!</p>
