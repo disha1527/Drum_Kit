@@ -1,6 +1,6 @@
 <h1> Drum Kit🥁</h1>
 
-<h1>Project Title: Drum Kit</h1>
+
 <p>Description: Welcome to the Drum Kit project! This interactive web application is a virtual drum set that you can play right in your browser.
 It's the perfect tool for drum enthusiasts, aspiring musicians, or anyone looking to have some fun and make some beats.</p>
 
